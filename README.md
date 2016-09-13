@@ -8,4 +8,4 @@ This docker image will mount box.com files to apache /var/www/html folder.
 
 2. Start container:
 
-`docker run -p 88:80 -d --rm --name boxcont --privileged boxcom`
+`docker run -p 88:80 -d --name boxcont --privileged boxcom`
